@@ -7,4 +7,4 @@
   - Presentación en formato PDF (Grupal)
   - Enlace Video Presentación (Grupal)
  
-**Para la presentación grupal se escogió el Notebook elaborado por otro integrante del grupo.
+* *Para la presentación grupal se escogió el Notebook elaborado por otro integrante del grupo.
