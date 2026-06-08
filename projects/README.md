@@ -1,3 +1,8 @@
 # Descripción de los proyectos
 
-* [Proyecto](project.ipynb): descripción del proyecto.
+* [Proyecto 1](project.ipynb): Se adjunta,
+
+* - Proyecto Google Colab
+  - Presentación en formato PDF
+  - Enlace Video Presentación
+  - Informe Ejecutivo TalentCo
